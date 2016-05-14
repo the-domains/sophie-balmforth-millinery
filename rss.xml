@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sophie Balmforth Millinery]]></title>
         <description><![CDATA[Sophie Balmforth Millinery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sophie-balmforth-millinery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 10:02:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 10:14:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sophie-balmforth-millinery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Contact</p>]]></description>
-            <link>undefinedcontact/index.html</link>
+            <link>https://thegrid.ai/sophie-balmforth-millinery/contact/index.html</link>
             <guid isPermaLink="false">3fbff11d-2c70-4a61-be6c-8c5815b3b5a6</guid>
-            <pubDate>Sat, 14 May 2016 10:02:24 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 10:13:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
