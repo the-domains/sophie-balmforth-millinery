@@ -1,7 +1,7 @@
 name: Sophie Balmforth Millinery
 favicon: null
-layout_spectrum: 0.031194868963211775
-typography_spectrum: 0.5425527777988464
+layout_spectrum: 1
+typography_spectrum: 0.14882
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.03190017049200833
-  lightness: 0.14164328738115728
-  saturation: 0.6351837455295026
-  rhythmicContrast: 0.29132070555351675
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
